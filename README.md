@@ -8,4 +8,4 @@ Refactor original code. Ensured all links were functioning, cleaned up code to m
 * CSS
 
 ## Website
-https://lernantino.github.io/run-buddy/
+https://brownshugga81.github.io/challenge-1/
